@@ -1,4 +1,4 @@
-class Player {
+
     class Player     //constructor.  requires string to set player type
         (  //player makes moves and can be human or AI
         private val type // whether the player is human or AI
@@ -107,4 +107,3 @@ class Player {
             }
         }
     }
-}
