@@ -1,5 +1,3 @@
-class Game{
-}
 
 class Game(var gridSize: Int) {
     //This is the Game class.  It hold the current state of the game
