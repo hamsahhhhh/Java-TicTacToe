@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ee5b46e-6df2-4f7e-856a-863cb33beed7" name="Default Changelist" comment="convert to kotlin">
-      <change afterPath="$PROJECT_DIR$/src/Cell.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Player.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicTacToe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ai.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ai.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ai.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ai.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +69,42 @@
       <option name="project" value="LOCAL" />
       <updated>1617965276077</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="convert to kotlin">
+      <created>1617966044831</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617966044831</updated>
+    </task>
+    <task id="LOCAL-00006" summary="convert to kotlin">
+      <created>1617966063534</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617966063534</updated>
+    </task>
+    <task id="LOCAL-00007" summary="convert to kotlin">
+      <created>1617966075332</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1617966075332</updated>
+    </task>
+    <task id="LOCAL-00008" summary="convert to kotlin">
+      <created>1617966245281</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617966245281</updated>
+    </task>
+    <task id="LOCAL-00009" summary="convert to kotlin">
+      <created>1617966272836</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617966272836</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
