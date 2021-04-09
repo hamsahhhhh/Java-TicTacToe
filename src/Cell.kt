@@ -1,4 +1,4 @@
-class Cell {
+
     class Cell {
         //This is one cell of the game grid
         var contents = " "
@@ -16,4 +16,3 @@ class Cell {
             empty = false
         }
     }
-}
